@@ -5,4 +5,5 @@ sourcetree
 	- 마스터 추가02
  	-test
 
+github id/pwd: qugh3439@gmail.com / 그룹웨어 패스
 	
